@@ -1,3 +1,3 @@
 # Attention-Modeul
-这个仓库记录了一些在Pytorch框架一些注意力机制的实现，以及MobilNet_v3_large和MobileNet_v3_small两个banckbone（用于分类）
+这个仓库记录了一些在Pytorch框架一些注意力机制的实现，以及MobilNet_v3_large和MobileNet_v3_small两个backbone（用于分类）
 
